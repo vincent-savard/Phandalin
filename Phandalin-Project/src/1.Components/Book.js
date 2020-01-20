@@ -53,6 +53,7 @@ let mapStateToProps = function(state) {
     HP: state.HP,
     weapon: state.weapon
     //state.todos is the same todos element from the store.
+    //The line above is from the basix template I used... I will leave it there, just because :)
   };
 };
 
